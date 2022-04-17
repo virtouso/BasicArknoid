@@ -11,8 +11,7 @@ int main(  )
 
 	SDL_Window* pWindow = SDL_CreateWindow("Game",
 			SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED,
-			512, 512,
-			0);
+			Game::WIDTH, Game::HEIGHT,0);
 	SDL_Renderer* pRenderer = SDL_CreateRenderer(pWindow, -1, SDL_RENDERER_PRESENTVSYNC);
 
 	Renderer renderer(pRenderer);
