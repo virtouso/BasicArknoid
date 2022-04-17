@@ -1,0 +1,2 @@
+C:\Users\s_moe\Downloads\BasicCodingTestVS\code\local\test\build\Debug\CodingTest.exe
+D:\Projects\Assesment\Keen\BasicCodingTestVS\code\local\test\build\Debug\CodingTest.exe
