@@ -138,10 +138,10 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\sources\baseObject.hpp" />
     <ClInclude Include="..\sources\game.hpp" />
     <ClInclude Include="..\sources\gamebase.hpp" />
     <ClInclude Include="..\sources\renderer.hpp" />
-    <ClInclude Include="baseObject.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\sources\game.cpp" />

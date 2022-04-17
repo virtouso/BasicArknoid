@@ -9,7 +9,7 @@ public:
 	int static const WIDTH = 620;
 	int static const HEIGHT = 720;
 
-	int static const COL = 2;
+	int static const COL = 13;
 	int static const ROW = 6;
 
 

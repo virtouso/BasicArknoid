@@ -27,7 +27,7 @@
     <ClInclude Include="..\sources\renderer.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="baseObject.hpp">
+    <ClInclude Include="..\sources\baseObject.hpp">
       <Filter>Header Files\Entity</Filter>
     </ClInclude>
   </ItemGroup>
